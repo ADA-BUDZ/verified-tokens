@@ -1,0 +1,10 @@
+{
+  "bb4cfbe0f6be60b80f90f815e8353b93431de4df785d75350b9d214a": {
+    "project": Ada Budz
+    "categories": ["NFT"],
+    "socialLinks": {
+      "website": "https://adabudz.com/-herb",
+      "discord": "https://discord.com/invite/gtyYpqNb9z",
+      "telegram": "https://t.me/ADABUDZ",
+      "twitter": "https://twitter.com/adabudzNFT",
+    }
